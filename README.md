@@ -81,3 +81,19 @@ curl -I https://yourdomain.com
 
 ---
 
+## Architecture
+**Flow**:
+![alt text](docs/architecture.png)
+
+
+---
+
+## Value for DevOps
+
+This project demonstrates:
+
+- **Server provisioning & automation**  
+- **Web security hardening**  
+- **Reverse proxy architecture**  
+- **Certificate management**  
+- **DevOps portfolio-ready infrastructure**  
